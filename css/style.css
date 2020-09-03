@@ -1,0 +1,92 @@
+*{margin:0; padding: 0; box-sizing; }
+.bodystyle{
+width: 90%;
+margin: 0 auto;
+
+}
+.logostyle{
+    height:30px ;
+
+}
+
+.carousel-item{
+    position: relative;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.carousel-caption h5{
+    color:black;
+
+}
+
+main{
+margin: 40px 0;
+}
+
+.card{
+border:none!important;
+}
+
+.card-body{
+padding: 5px 0!important;
+}
+
+.card-img-top{
+    height: 170px;
+}
+
+.mgstyle{
+    width: 100% ;
+    height: 450px;
+    background-image:url('../image/section-image.jpg') ;
+    background-repeat:no-repeat ;
+    background-size: 100% 100%;
+    margin: 20px 0 40px 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 70px;
+}
+
+
+
+
+
+.botam-sec{
+    margin: 40px 0 ;
+}
+.social-sec{
+    margin-bottom:40px ;
+}
+
+.fa-youtube{
+    color:red;
+} 
+
+footer{
+    background: #f2f2f2;
+    padding: 40px 0;
+}
+
+footer ul li{
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    color: #818181;
+}
+
+.footerbtncredit{
+    display: flex;
+    justify-content: space-between;
+}
+
+
